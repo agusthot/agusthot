@@ -1,5 +1,5 @@
 n = int(input("Enter the length of the sequence: "))
-# Do not change this line
+#  Do not change this line
 count_number =3
 num1=1
 num2=2
