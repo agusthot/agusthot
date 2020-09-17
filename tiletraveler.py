@@ -71,7 +71,7 @@ def play_one_move(col, row, valid_directions):
         victory = is_victory(col, row)
     return victory, col, row
 
-# The main program starts here
+#  The main program starts here
 victory = False
 row = 1
 col = 1
